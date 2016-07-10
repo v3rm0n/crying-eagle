@@ -4,7 +4,7 @@ Push the button and The Star-Spangled Banner plays!
 
 ## Button
 
-![Button](https://gitlab.com/maido/crying-eagle/blob/master/images/button.jpg)
+![Button](images/button.jpg)
 
 ### Components
 
@@ -18,9 +18,11 @@ Push the button and The Star-Spangled Banner plays!
 - [Battery pack](http://www.oomipood.ee/product/12445_gby_patareipesa_3_aa_korvuti_kinnine_karp_juhtmetega)
 - [Voltage regulator](http://www.oomipood.ee/product/ld1117v33_dg_ld1117v33_dg?q=LD1117V33)
 
+[Code](src/button)
+
 ## Player
 
-![Player](https://gitlab.com/maido/crying-eagle/blob/master/images/player.jpg)
+![Player](images/player.jpg)
 
 ### Components
 
@@ -32,10 +34,13 @@ Push the button and The Star-Spangled Banner plays!
 - [Player](http://www.electrodragon.com/product/wtv020-sd-musicvoice-play-module-sd-card-based/)
 - 1GB SD card (not manufactured anymore)
 
+[Code](src/player)
+
 ## Other stuff
 
 - [Universal PCB](http://www.oomipood.ee/product/h25ps160_makettplaat_100_160mm_3_sed_saared)
 - [Wires](http://www.electrodragon.com/product/24awg-common-used-wires-kit-5810cm/)
+- [NodeMCU Development Board](http://www.aliexpress.com/item/New-Wireless-module-CH340-NodeMcu-V3-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/32509020044.html?ws_ab_test=searchweb201556_8,searchweb201602_3_10037_10017_405_404_407_406_10032_10040,searchweb201603_4&btsid=17c684bb-aa4a-4706-aacf-0ccfa252d694)
 
 ## Useful information
 
@@ -47,5 +52,8 @@ Push the button and The Star-Spangled Banner plays!
 
 ### Pinouts
 
-![ESP8266-05 pinout](https://gitlab.com/maido/crying-eagle/blob/master/images/esp8266-05-pinout.jpg)
-![ESP8266-01 pinout](https://gitlab.com/maido/crying-eagle/blob/master/images/esp8266-01-pinout.jpg)
+#### ESP8266-05 pinout
+![ESP8266-05 pinout](images/esp8266-05-pinout.jpg)
+
+#### ESP8266-01 pinout
+![ESP8266-01 pinout](images/esp8266-01-pinout.jpg)
